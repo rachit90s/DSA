@@ -1,2 +1,10 @@
 # DSA
-A comprehensive collection of data structures and algorithms implemented. This repository includes solutions to common algorithmic problems, detailed explanations, and code snippets to help improve problem-solving skills and prepare for technical interviews.
+
+Collection of important Data Structures and Algorithms with easy-to-understand implementations.  
+Perfect for learning and interview preparation.
+
+## Topics Covered
+- Arrays, Linked Lists, Stacks, Queues  
+- Trees, Graphs, Hash Tables  
+- Sorting, Searching, Dynamic Programming  
+- Greedy, Backtracking, Divide and Conquer
